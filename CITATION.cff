@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research, cite the thesis report and this software snapshot."
+title: "Multimodal AI Assistant for Medical Image and Clinical Text Analysis with Paired Image–Text Fusion"
+type: software
+authors:
+  - family-names: Alvi
+    given-names: Md. Hasin Saleh
+  - family-names: Bhuyan
+    given-names: Sabbir
+  - family-names: Karim
+    given-names: Syed Enamul
+  - family-names: Rahi
+    given-names: Golam Mohammad
+repository-code: "https://github.com/Hasinzz/multimodal-ai-assistant-medical-image-clinical-text-paired-fusion"

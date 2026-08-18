@@ -1,0 +1,68 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets, local configuration, and IDE files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Medical data and local research assets
+data/
+datasets/
+checkpoints/
+outputs/
+runs/
+backups/
+notebooks/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.safetensors
+*.joblib
+
+# Generated and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+*.npy
+*.npz
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nlo
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
