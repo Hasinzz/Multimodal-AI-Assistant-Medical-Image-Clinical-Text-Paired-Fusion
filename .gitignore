@@ -23,7 +23,7 @@ Desktop.ini
 
 # Medical data and local research assets
 data/
-datasets/
+/datasets/
 checkpoints/
 outputs/
 runs/
